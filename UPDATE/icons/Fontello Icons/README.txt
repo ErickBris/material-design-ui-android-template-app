@@ -1,0 +1,1 @@
+This folder contains two subfolders: fontello and svgs. In svgs folder, you can find .svg images of fonts that can be uploaded to fontello.com and generated to fonts. In fontello folder, you can find demo.html file which shows you codes of every icon that is contained in font files (and these font files are located in font subfolder - we use fontello.ttf file in our project).
